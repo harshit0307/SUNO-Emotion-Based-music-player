@@ -3,9 +3,9 @@ EMOTION BASED MUSIC PLAYER
 
 Emotion Based Music Player” for all kinds of music lovers which aimed to serve as a platform to assist individuals to play and listen to the songs according to his emotions.
     This proposed system contain three modules i.e. 
- #  To propose a facial expression detection model to detect and analyze the emotion of an individual.
- #  To accurately detect the four basic emotions, namely normal, happy, sad and surprise.   
- #  To integrate the music player into the proposed model to play the music based on the emotions detected.
+ 1.  To propose a facial expression detection model to detect and analyze the emotion of an individual.
+ 2.  To accurately detect the four basic emotions, namely normal, happy, sad and surprise.   
+ 3.  To integrate the music player into the proposed model to play the music based on the emotions detected.
  
  To Run This follow these instruction:-
  1. Install python from its main site.
