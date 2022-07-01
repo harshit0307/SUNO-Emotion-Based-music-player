@@ -14,15 +14,16 @@ Emotion Based Music Player” for all kinds of music lovers which aimed to serve
  
  Here are some Screen Shots........
  
- Main Window
+ # Main Window
 
 ![image](https://user-images.githubusercontent.com/63691792/176939725-af28f0f4-5a3d-4320-ab7a-10212355331d.png)
 
-After detecting Happy face
+# After detecting Happy face
 
 ![image](https://user-images.githubusercontent.com/63691792/176939786-634037ff-a588-460b-b78e-d411f313d6f8.png)
 
-After detecting sad face
+# After detecting sad face
+
 ![image](https://user-images.githubusercontent.com/63691792/176939807-e635b29b-e162-4992-a97c-9f48ea58a9f3.png)
 
 
